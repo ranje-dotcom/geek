@@ -1,0 +1,1 @@
+In badminton we basically uses racket and shuttle.
